@@ -1,0 +1,203 @@
+
+data = [
+    {
+        "question": "¿Donde conoce Harry a Draco Malfoy?",
+        "answers":{
+            "a": "En el Callejón Diagón",
+            "b": "En el andén 9 y tres cuartos",
+            "c": "En el Castillo de Hogwarts",
+            "d": "En el expreso de Hogwarts"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "¿En que libro se ve por primera vez a Cedric Diggory?",
+        "answers":{
+            "a": "La piedra filosofal",
+            "b": "El cáliz de fuego",
+            "c": "El prisionero de Azkaban",
+            "d": "La cámara secreta"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "¿Cómo se llama el hermano de Colin Creevey?",
+        "answers":{
+            "a": "Nigel",
+            "b": "Will",
+            "c": "Nicholas",
+            "d": "Dennis"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "¿Qué elemento comparten las varitas de Harry y Voldemort?",
+        "answers":{
+            "a": "Pluma de fénix",
+            "b": "Fibra de corazón de dragón",
+            "c": "Pelo de unicornio",
+            "d": "Madera de T-rex"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "¿Cuál es el Patronus de Luna Lovegood?",
+        "answers":{
+            "a": "Un gato",
+            "b": "Una liebre",
+            "c": "Un ciervo",
+            "d": "Un T-rex"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "¿Cómo se llama la mamá de Hagrid?",
+        "answers":{
+            "a": "Wilhemina",
+            "b": "Maxine",
+            "c": "Fridwulfa",
+            "d": "Minerva"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "¿Qué personaje de los libros no existe en las películas?",
+        "answers":{
+            "a": "Barty Crouch Jr.",
+            "b": "Bill Weasly",
+            "c": "Elphias Doge",
+            "d": "Peeves"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "¿En qué momento Harry, Hermione y Ron se convierten en amigos?",
+        "answers":{
+            "a": "Cuando Harry y Ron la salvan del troll",
+            "b": "En el tren",
+            "c": "Siempre fueron amigos",
+            "d": "En el bosque prohibído"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "¿Cuáles son los tres Maleficios Imperdonables?",
+        "answers":{
+            "a": "Expelliarmus, Patronus, Sectusempra",
+            "b": "Vivora ibanesca, Imperius, petrificus totallus",
+            "c": "Imperius, Cruciatus, Avada Kedavra",
+            "d": "Inmovilus, Winwardium leviosa, Accio"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "¿Cómo se llama el mago que puede transformarse en un animal a voluntad?",
+        "answers":{
+            "a": "Mortífago",
+            "b": "Animago",
+            "c": "Maledictus",
+            "d": "Obscurial"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "¿Cuál es el efecto del hechizo 'Vera Verto'?",
+        "answers":{
+            "a": "Hace que las personas digan la verdad",
+            "b": "Sana heridas",
+            "c": "Hace crecer un árbol",
+            "d": "Transforma un animal en una copa"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "Cuando Harry está en el Bosque Prohibido, ¿quién lo acompaña?",
+        "answers":{
+            "a": "Malfoy y Fang",
+            "b": "Dean",
+            "c": "Rom y Hermione",
+            "d": "Seamus"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "¿Dónde viven los tíos de Harry Potter?",
+        "answers":{
+            "a": "En el número 12 de Grimmauld Place",
+            "b": "En el número 4 de Privet Drive",
+            "c": "En la Madriguera",
+            "d": "En el bosque prohibído"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "¿Qué son los muggles?",
+        "answers":{
+            "a": "Aliados de Dumbledore",
+            "b": "Magos malignos",
+            "c": "Personas sin mágia",
+            "d": "Trabajadores del ministro de magia"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "¿Cómo se llama el perro de tres cabezas?",
+        "answers":{
+            "a": "Hagrid",
+            "b": "Cerbero",
+            "c": "Fluffy",
+            "d": "Voldemort"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Frase para abrir el mapa del merodeador: ",
+        "answers":{
+            "a": "Juro solemnemente que mis intenciones no son buenas",
+            "b": "Draco Dormiens nunquam Titillandus",
+            "c": "Este es mi camino ninja",
+            "d": "Abrete sesamo"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "¿Quién le regaló a Harry Potter la Nimbus 2000?",
+        "answers":{
+            "a": "Sus padres",
+            "b": "Sirius Black",
+            "c": "Dumbledore",
+            "d": "Minerva McGonagall."
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "¿Qué tipo de criatura es Aragog?",
+        "answers":{
+            "a": "Acromántula",
+            "b": "Unicornio",
+            "c": "Centauro",
+            "d": "Basilísco"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "¿Qué vehículo monta Hagrid cuando aparece por primera vez en la película Harry Potter y la piedra filosofal?",
+        "answers":{
+            "a": "Escoba voladora",
+            "b": "Thestral",
+            "c": "Moto encantada",
+            "d": "Auto encantado"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "¿Qué tipos de criaturas trabajan en el Banco Gringotts?",
+        "answers":{
+            "a": "Elfo doméstico",
+            "b": "Muggles",
+            "c": "Vampiros",
+            "d": "Duendes"
+        },
+        "correctAnswer": "d"
+    }
+];
